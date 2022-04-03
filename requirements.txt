@@ -1,0 +1,5 @@
+numpy==1.22.2
+pandas
+matplotlib==3.4.0
+opencv-python==4.5.5.64
+d2l==0.17.4
