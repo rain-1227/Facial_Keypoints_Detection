@@ -24,6 +24,8 @@
 
 ## 网络结构
 训练好的模型参数保存在`saved_models`文件夹下，可以直接用`model.py`中的网络来加载训练好的参数看一下效果，如何加载看一下`run.py`文件最后部分
+（文件太大没上传上，可以在这个链接中找到链接：https://pan.baidu.com/s/1zqxc7yWc8NmaswqTp5O9rA 
+提取码：j49l）
 
 ## 训练与测试
 文件`run.ipynb`
