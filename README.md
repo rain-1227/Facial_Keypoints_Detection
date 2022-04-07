@@ -1,4 +1,4 @@
-[参考的教程链接](https://github.com/rain-1227/P1_Facial_Keypoints) </br>
+[参考的教程链接](https://github.com/udacity/P1_Facial_Keypoints) </br>
 建议先看一下参考链接中的东西，我只是将网络模型和训练函数进行了修改，并将其放在GPU上运行了。数据的详细介绍和处理都是教程里面的
 
 ## 环境安装
